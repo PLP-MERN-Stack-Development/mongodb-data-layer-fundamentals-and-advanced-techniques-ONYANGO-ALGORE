@@ -1,0 +1,1 @@
+Using mongo DB compass or mongosh, you can run the queries in the queries.js file one by one and they should be able to work as intended and manpulate the collection as the query intends.
